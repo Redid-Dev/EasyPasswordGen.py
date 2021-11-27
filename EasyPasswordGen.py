@@ -1,9 +1,9 @@
 #!/bin/python3
 import random
 
-print ("=============================")
-print ("|Password Generator by Redid|")
-print("=============================")
+print ("=================================")
+print ("|Password Generator by ForseeGab|")
+print("==================================")
 
 chars = 'qwertyuiopasdfghjklzxcvbnm123456789#@?!-_*'
 
