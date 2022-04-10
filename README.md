@@ -2,7 +2,7 @@
 A simple, fast and secure random password generator in Python, length and number of changeable passwords of your choice
 
 <h2>❓how it works</h2>
-Goes to choose a random combination of numbers, letters and special characters
+<p>Goes to choose a random combination of numbers, letters and special characters</p>
 
 <h3>⚙️how to use</h3>
 <p>install python</p>
