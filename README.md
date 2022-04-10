@@ -11,5 +11,5 @@ Goes to choose a random combination of numbers, letters and special characters
 <p>select the length of the password and press "enter"</p>
 <p>at this point it will have generated passwords that can be used in any way</p>
 
-<h4>🔩End</h4>
+<h3>🔩End</h3>
 <p>that's all</p>
