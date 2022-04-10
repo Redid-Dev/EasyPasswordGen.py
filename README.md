@@ -4,12 +4,12 @@ A simple, fast and secure random password generator in Python, length and number
 <h2>❓how it works</h2>
 <p>Goes to choose a random combination of numbers, letters and special characters</p>
 
-<h3>⚙️how to use</h3>
+<h2>⚙️how to use</h2>
 <p>install python</p>
 <p>after the finish install the file</p>
 <p>run the file</p>
 <p>select the length of the password and press "enter"</p>
 <p>at this point it will have generated passwords that can be used in any way</p>
 
-<h3>🔩End</h3>
+<h2>🔩End</h2>
 <p>that's all</p>
